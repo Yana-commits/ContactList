@@ -1,0 +1,16 @@
+E:\A-level\ContactList\ContactList\bin\Debug\netcoreapp3.1\ContactList.exe
+E:\A-level\ContactList\ContactList\bin\Debug\netcoreapp3.1\ContactList.deps.json
+E:\A-level\ContactList\ContactList\bin\Debug\netcoreapp3.1\ContactList.runtimeconfig.json
+E:\A-level\ContactList\ContactList\bin\Debug\netcoreapp3.1\ContactList.runtimeconfig.dev.json
+E:\A-level\ContactList\ContactList\bin\Debug\netcoreapp3.1\ContactList.dll
+E:\A-level\ContactList\ContactList\bin\Debug\netcoreapp3.1\ContactList.pdb
+E:\A-level\ContactList\ContactList\obj\Debug\netcoreapp3.1\ContactList.csprojAssemblyReference.cache
+E:\A-level\ContactList\ContactList\obj\Debug\netcoreapp3.1\ContactList.AssemblyInfoInputs.cache
+E:\A-level\ContactList\ContactList\obj\Debug\netcoreapp3.1\ContactList.AssemblyInfo.cs
+E:\A-level\ContactList\ContactList\obj\Debug\netcoreapp3.1\ContactList.dll
+E:\A-level\ContactList\ContactList\obj\Debug\netcoreapp3.1\ContactList.pdb
+E:\A-level\ContactList\ContactList\obj\Debug\netcoreapp3.1\ContactList.genruntimeconfig.cache
+E:\A-level\ContactList\ContactList\bin\Debug\netcoreapp3.1\config.json
+E:\A-level\ContactList\ContactList\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+E:\A-level\ContactList\ContactList\obj\Debug\netcoreapp3.1\ContactList.csproj.CoreCompileInputs.cache
+E:\A-level\ContactList\ContactList\obj\Debug\netcoreapp3.1\ContactList.csproj.CopyComplete

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "f9jcBHbTOg/RGmDCe9JUt7pgs9oAELozqPriMytcCcyAmrGpkRZcCUMKsF4guWAttT6CYfjMBjT0cH0YaltUBg==",
+  "success": true,
+  "projectFilePath": "E:\\A-level\\ContactList\\ContactList\\ContactList.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Admin\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
